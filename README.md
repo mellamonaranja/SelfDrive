@@ -1,7 +1,5 @@
 # An in depth look at CARLA's sensors
 
-This is an implementation of  CARLA Simulator video tutorial https://www.youtube.com/watch?v=om8klsBj4rc&t=1184s
-
 ## Requirement
 
 - CMake(https://cmake.org/download/)
